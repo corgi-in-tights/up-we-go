@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.thecorgi.upwego.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "FireworkMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
